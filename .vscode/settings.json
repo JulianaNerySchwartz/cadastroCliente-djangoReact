@@ -1,0 +1,18 @@
+{
+    "team.showWelcomeMessage": false,
+    "editor.formatOnSave": true,
+    "python.linting.pycodestyleEnabled": true,
+    "python.linting.pycodestyleArgs": [
+        "--ignore=E501"
+    ],
+    "python.linting.pylintPath": "/path/to/pylint",
+    "python.linting.pylintArgs": [
+        "--load-plugins",
+        "pylint_django"
+    ],
+    "python.linting.pylintEnabled": true,
+    "python.pythonPath": "D:\\github\\cadastrocliente-djangoreact\\backend\\env",
+    "python.analysis.extraPaths": [
+        "./backend/src"
+    ]
+}
