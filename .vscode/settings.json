@@ -11,7 +11,7 @@
         "pylint_django"
     ],
     "python.linting.pylintEnabled": true,
-    "python.pythonPath": "D:\\github\\cadastrocliente-djangoreact\\backend\\env",
+    "python.pythonPath": "D:\\Python\\3.9.5\\python.exe",
     "python.analysis.extraPaths": [
         "./backend/src"
     ]
